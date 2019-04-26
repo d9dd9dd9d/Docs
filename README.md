@@ -1,2 +1,2 @@
 # Docs
-Knowledge base
+Knowledge base for various DSP aspects.
